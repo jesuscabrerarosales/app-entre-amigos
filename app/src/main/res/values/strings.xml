@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EntreAmigos</string>
+    <string name="notification_channel_id">entreamigos_gastos</string>
+    <string name="notification_channel_name">Gastos y saldos</string>
+    <string name="notification_channel_desc">Avisos sobre nuevos gastos y deudas en tus grupos</string>
+</resources>
